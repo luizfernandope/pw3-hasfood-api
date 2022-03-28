@@ -14,6 +14,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @Table(name = "TBL_CARDAPIO")
+
 public class Cardapio {
 	
 	@Id
